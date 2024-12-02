@@ -1,0 +1,10 @@
+{
+    "name": "alexv/zad122",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alexv\\Zad122\\": "src/"
+        }
+    },
+    "require": {}
+}
