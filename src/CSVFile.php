@@ -1,6 +1,6 @@
 <?php
 
-namespace Alexv\Zad12;
+namespace Alexv\Zad122;
 
 use Alexv\Zad122\ManagerFile;
   
